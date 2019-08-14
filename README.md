@@ -1,0 +1,2 @@
+# laravelmigrationfix
+Fix laravel migration 
